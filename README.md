@@ -5,19 +5,19 @@
 # 📃 Content
 | ✨ Entry | 📚 App |
 |---------------------|------------|
-| Browser | [Firefox](#firefox) |
-| File Explorer Mod | [ExplorerBlurMica](#explorerblurmica) |
-| System Fetch | [Fastfetch](#fastfetch) |
-| Audio Visualizer | [Cava](#cava) |
-| Music Player | [YouTube Music](#youtubemusic) |
-| Screen Recording | [OBS Studio](#obsstudio) |
-| Shell Prompt | [Oh My Posh](#ohmyposh) |
-| Terminal | [Windows Terminal](#windowsterminal) |
-| Minecraft Launcher | [Modrinth App](#modrinthapp) |
-| VPN | [ProtonVPN](#protonvpn) |
-| Screenshot Tool | [Flameshot](#flameshot) |
-| Game Clipping | [Medal](#medal) |
-| Wallpaper | [Wallpaper Engine](#wallpaperengine) |
+| Browser | [Firefox](#-firefox) |
+| File Explorer Mod | [ExplorerBlurMica](#-explorerblurmica) |
+| System Fetch | [Fastfetch](#-fastfetch) |
+| Audio Visualizer | [Cava](#-cava) |
+| Music Player | [YouTube Music](#-youtube-music) |
+| Screen Recording | [OBS Studio](#-obs-studio) |
+| Shell Prompt | [Oh My Posh](#-oh-my-posh) |
+| Terminal | [Windows Terminal](#-windows-terminal) |
+| Minecraft Launcher | [Modrinth App](#-modrinth-app) |
+| VPN | [ProtonVPN](#-protonvpn) |
+| Screenshot Tool | [Flameshot](#-flameshot) |
+| Game Clipping | [Medal](#-medal) |
+| Wallpaper | [Wallpaper Engine](#-wallpaper-engine) |
 
 Browser Extensions
 | ✨ Entry | 🌟 Function |
@@ -45,7 +45,7 @@ You can follow the steps below:
 **⚙️ Installation:**  
 You can follow the steps below:
 - Run `winget install fastfetch` in your terminal
-- Go to `C:\Users\%USERPROFILE%`
+- Press Win + R and type `%USERPROFILE%` and press enter
 - Create a folder called `.config`
 - Right click the folder and click on `Show more options` and then on `Properties`
 - Check `Hidden`
@@ -55,6 +55,8 @@ You can follow the steps below:
 - Create a folder called `fastfetch`
 - Download the `config.jsonc` and `ascii.txt` from this repo
 - Paste them into the `fastfetch` folder
+
+If you want to replace the ASCII art make sure to keep the $2-$9 in the `ascii.txt` file but you can get ASCII art from [here!](https://emojicombos.com)
 
 ## 🖼️ Wallpaper Engine
 **⚙️ Installation:**  
