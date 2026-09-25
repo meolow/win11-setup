@@ -23,15 +23,6 @@
     "separator": " "
   },
   "modules": [
-    //"break",
-    //{
-      //"type": "title",
-      //"color": {
-        //"user": "#F5C2E7",
-        //"at": "#CDD6F4",
-        //"host": "#89DCEB"
-      //}
-    //},
     "break",
     {
       "type": "os",
@@ -45,7 +36,7 @@
     },
     {
       "type": "gpu",
-      "key": "󰚗",
+      "key": "󰍹",
       "keyColor": "#FAB387"
     },
     {
