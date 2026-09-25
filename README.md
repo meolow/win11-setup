@@ -103,7 +103,7 @@ You can follow the steps below:
 **⚙️ Installation:**  
 You can follow the steps below:
 - Buy it from Steam for 4,99€
-- Open it, go to the workshop tab and search for "【Furry】落霞归途" (the one made by 爱摸鱼的卢皮卡 is the one i use)
+- Open it, go to the workshop tab and search for "【Furry】落霞归途" (made by 爱摸鱼的卢皮卡)
 
 ## 🌸 FluentFlyout
 > [!WARNING]
