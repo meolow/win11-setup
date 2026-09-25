@@ -22,6 +22,7 @@
 | Wallpaper | [Wallpaper Engine](#-wallpaper-engine) |
 | Taskbar Media Widget | [FluentFlyout](#-fluentflyout) |
 | Terminal Auto Complete | [PSReadLine](#-psreadline) |
+| Transparent Taskbar | [TranslucentTB](#-translucenttb)
 
 Browser Extensions
 | ✨ Entry | 🌟 Function |
@@ -128,3 +129,9 @@ You can follow the steps below:
 You can follow the steps below:
 - Open your terminal as administrator
 - Paste this command `Install-Module -Name PSReadLine -AllowClobber -Force`
+
+
+## 🖥️ TranslucentTB
+**⚙️ Installation:**  
+You can follow the steps below:
+- Download it from the [Microsoft Store](https://apps.microsoft.com/detail/9pf4kz2vn4w9)
