@@ -51,7 +51,7 @@ You can follow the steps below:
 - Right click the folder and click on `Show more options` and then on `Properties`
 - Check `Hidden`
 - Click on `Apply` and `OK`
-- If you cant see it: Go to `View` at the top, hover over `Show` and check `Hidden Items`
+- If you can't see it: Go to `View` at the top, hover over `Show` and check `Hidden Items`
 - Now go into the `.config` folder you made
 - Create a folder called `fastfetch`
 - Download the `config.jsonc` and `ascii.txt` from this repo
