@@ -121,6 +121,6 @@ You can follow the steps below:
 - Click on `Browse...` and select the option `Trusted Root Certification Authorities` and press `OK`, then `Next` and then just keep pressing `Next`, `Finish` or `OK` for whatever it asks
 - Now double click `FluentFlyoutMSIX_X.XX.X.X_x64_GitHub Release.msixbundle` and install it
 
-  **🔱 Config:**
+**🔱 Config:**
 - Go to the `Media Flyout` Tab and set background blur to `Style 3 (Blur)` but do NOT enable `Enable Media Flyout`
 - Enable `Volume Flyout`, `Taskbar Widget`, `Taskbar Visualizer`, `Next Up Flyout` and `Lock Keys Flyout`
