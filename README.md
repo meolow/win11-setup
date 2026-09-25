@@ -135,3 +135,7 @@ You can follow the steps below:
 **⚙️ Installation:**  
 You can follow the steps below:
 - Download it from the [Microsoft Store](https://apps.microsoft.com/detail/9pf4kz2vn4w9)
+
+**🔱 Config:**
+- Set everything to `Clear` and disable `Show taskbar border`
+- Set `Maximized window` to `Acrylic`
