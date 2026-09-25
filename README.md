@@ -11,7 +11,6 @@
 | Audio Visualizer | [Cava](#-cava) |
 | Music Player | [YouTube Music](#-youtube-music) |
 | Screen Recording | [OBS Studio](#-obs-studio) |
-| Shell Prompt | [Oh My Posh](#-oh-my-posh) |
 | Terminal | [Windows Terminal](#-windows-terminal) |
 | Minecraft Launcher | [Modrinth App](#-modrinth-app) |
 | VPN | [ProtonVPN](#-protonvpn) |
@@ -75,11 +74,6 @@ You can follow the steps below:
 **⚙️ Installation:**  
 You can follow the steps below:
 - Run `winget install OBSProject.OBSStudio` or download from [obsproject.com](https://obsproject.com)
-
-## 🎨 Oh My Posh
-**⚙️ Installation:**  
-You can follow the steps below:
-- Run `winget install JanDeDobbeleer.OhMyPosh -s winget`
 
 ## 🎮 Modrinth App
 **⚙️ Installation:**  
