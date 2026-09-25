@@ -19,6 +19,7 @@
 | Game Clipping | [Medal](#-medal) |
 | Wallpaper | [Wallpaper Engine](#-wallpaper-engine) |
 | Taskbar Media Widget | [FluentFlyout](#-fluentflyout) |
+| Terminal Auto Complete | [PSReadLine](#-psreadline) |
 
 Browser Extensions
 | ✨ Entry | 🌟 Function |
@@ -124,3 +125,9 @@ You can follow the steps below:
 **🔱 Config:**
 - Go to the `Media Flyout` Tab and set background blur to `Style 3 (Blur)` but do NOT enable `Enable Media Flyout`
 - Enable `Volume Flyout`, `Taskbar Widget`, `Taskbar Visualizer`, `Next Up Flyout` and `Lock Keys Flyout`
+
+## 💬 PSReadLine
+**⚙️ Installation:**  
+You can follow the steps below:
+- Open your terminal as administrator
+- Paste this command `Install-Module -Name PSReadLine -AllowClobber -Force`
