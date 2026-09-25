@@ -1,5 +1,5 @@
 # 📷 Screenshot
-![Screenshot of my desktop](https://i.imgur.gg/iXC3aCS-2026-09-25_17-01.png)
+![Screenshot of my desktop](https://camo.githubusercontent.com/1d2c30378b381612e6630f16afa14ed59d7204a283f74fb9e1515ea52d8abfa4/68747470733a2f2f692e696d6775722e67672f695843336143532d323032362d30392d32355f31372d30312e706e67)
 
 
 # 📃 Content
