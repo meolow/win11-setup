@@ -20,7 +20,7 @@
 | Wallpaper | [Wallpaper Engine](#wallpaperengine) |
 
 Browser Extensions
-| ✨ Entry | 🦊 Function |
+| ✨ Entry | 🌟 Function |
 |---------------------|------------|
 | uBlock Origin | Blocks ads |
 | Firefox Color | Firefox theme maker |
@@ -29,12 +29,34 @@ Browser Extensions
 
 # 🔥 Details
 
-## Firefox
+## 🦊 Firefox
 **⚙️ Installation:**  
 You can follow the steps below:
-- Download it from [mozilla.org/firefox](https://mozilla.org/firefox) or via terminal ``winget install Mozilla.Firefox`` 
+- Download it from [mozilla.org/firefox](https://mozilla.org/firefox) or via terminal `winget install Mozilla.Firefox`
 
-## Wallpaper Engine
+## 📁 ExplorerBlurMica
+**⚙️ Installation:**  
+You can follow the steps below:
+- Get it from [github.com/Maplespe/ExplorerBlurMica/releases/](https://github.com/Maplespe/ExplorerBlurMica/releases/)
+- Download and extract the `.zip`
+- Run `register.cmd`
+  
+## ⚡ Fastfetch
+**⚙️ Installation:**  
+You can follow the steps below:
+- Run `winget install fastfetch` in your terminal
+- Go to `C:\Users\%USERPROFILE%`
+- Create a folder called `.config`
+- Right click the folder and click on `Show more options` and then on `Properties`
+- Check `Hidden`
+- Click on `Apply` and `OK`
+- If you cant see it: Go to `View` at the top, hover over `Show` and check `Hidden Items`
+- Now go into the `.config` folder you made
+- Create a folder called `fastfetch`
+- Download the `config.jsonc` and `ascii.txt` from this repo
+- Paste them into the `fastfetch` folder
+
+## 🖼️ Wallpaper Engine
 **⚙️ Installation:**  
 You can follow the steps below:
 - Buy it from Steam for 4,99€
