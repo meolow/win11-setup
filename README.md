@@ -64,7 +64,7 @@ You can follow the steps below:
 - If you can't see it: Go to `View` at the top, hover over `Show` and check `Hidden Items`
 - Now go into the `.config` folder you made
 - Create a folder called `fastfetch`
-- Download the `config.jsonc` and `ascii.txt` from this repo
+- Download the `config.jsonc` and `ascii.txt` from this repo [here.](https://github.com/meolow/win11-setup/tree/main/fastfetch)
 - Paste them into the `fastfetch` folder
 
 If you want to replace the ASCII art make sure to keep the $2-$9 in the `ascii.txt` file but you can get ASCII art from [here!](https://emojicombos.com)
