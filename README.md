@@ -143,7 +143,6 @@ You can follow the steps below:
 ## Custom Cursor
 **⚙️ Installation:**  
 You can follow the steps below:
-- Go to [here](,/Cursors)
-- Download the **whole** folder
-- Once finished, right click on `install.inf` and click `Install`
+- Go to [here](./Cursors.zip) and click on `Download raw file`
+- Once finished, extract it, open the folder and right click on `install.inf` and click `Install`
 - A window will open with the cursor, click `Apply` and `OK`
