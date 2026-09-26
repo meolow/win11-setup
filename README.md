@@ -131,6 +131,9 @@ You can follow the steps below:
 - Enable `Volume Flyout`, `Taskbar Widget`, `Taskbar Visualizer`, `Next Up Flyout` and `Lock Keys Flyout`
 
 ## 💬 PSReadLine
+> [!NOTE]  
+> Make sure to open **Terminal as Administrator** before running this command.
+
 **⚙️ Installation:**  
 You can follow the steps below:
 - Open your terminal as administrator
