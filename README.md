@@ -1,5 +1,11 @@
-<h1 align="center">⚠️ WORK IN PROGRESS ⚠️</h1>
-<h3 align="center">🩵 My Windows 11 Setup 🩵</h3>
+<div align="center">
+
+# 🩵 My Windows 11 Setup 🩵
+
+![Status](https://img.shields.io/badge/Status-Work_In_Progress-yellow?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+
+</div>
 
 # 📷 Screenshot
 ![Screenshot of my desktop](https://camo.githubusercontent.com/1d2c30378b381612e6630f16afa14ed59d7204a283f74fb9e1515ea52d8abfa4/68747470733a2f2f692e696d6775722e67672f695843336143532d323032362d30392d32355f31372d30312e706e67)
