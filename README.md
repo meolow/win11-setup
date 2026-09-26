@@ -137,3 +137,13 @@ You can follow the steps below:
 You can follow the steps below:
 - Open your terminal as administrator
 - Paste this command `Install-Module -Name PSReadLine -AllowClobber -Force`
+
+# Extras
+
+## Custom Cursor
+**⚙️ Installation:**  
+You can follow the steps below:
+- Go to [here](,/Cursors)
+- Download the **whole** folder
+- Once finished, right click on `install.inf` and click `Install`
+- A window will open with the cursor, click `Apply` and `OK`
